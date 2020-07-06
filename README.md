@@ -14,9 +14,9 @@ I used `numpy` for Day 18 and that's it. Everything else is from the stdlib.
 |06|31m|4m|
 |07|44m|/|
 |08|30m|/|
-|09||/|
+|09|/|/|
 |10|22m|15s|
-|11||/|
+|11|/|/|
 |12|6m|30s|
 |13|15min|30s|
 |14|11m|7m|
